@@ -9,4 +9,4 @@ My ULTIMATE goal with this code is to make a website or app with this code and r
 This caculator will have tons of resturants and fast foods and if you see a place you don't see on the code and want to add your own place, then be my
 guest. 
 
-Most of these places are from Ellensburg Washington at the university of washington home of the wildcats!!!!
+Most of these places are from Ellensburg Washington at Central Washington University home of the wildcats!!!!
